@@ -38,9 +38,10 @@ We will:
 
 ---
 
----
+
 ## 📦 Project Structure
----
+
+```
 RealEstatePricePrediction/
 ├── model/               # Jupyter Notebooks and model training code
 ├── server/              # Flask server code
@@ -48,6 +49,7 @@ RealEstatePricePrediction/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 
----
+
+
 
 
